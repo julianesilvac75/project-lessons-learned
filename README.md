@@ -1,33 +1,32 @@
-# Project Lessons Learned - Trybe, Turma 16-B
+# Project Lessons Learned - Trybe, Class 16-B
 
-O desafio proposto foi desenvolver um site que contivesse diversas informações sobre o que eu aprendi na Trybe até então (duas semanas de aula). O site deveria contar com elementos bem posicionados e com uma semântica apropriada para que fosse acessível e melhor ranqueado.
+The proposed challenge was to develop a website containing various information about what I had learned at Trybe up to that point (two weeks into the course). The website should have well-positioned elements and appropriate semantics to make it accessible and better ranked.
 
- - Repositório com a proposta do projeto: [clique](https://github.com/tryber/sd-016-b-project-lessons-learned)
-- Página do projeto: [clique](https://project-lessons-learned.vercel.app/)
+- Live page: [click here](https://project-lessons-learned.vercel.app/)
 
-## Tecnologias usadas:
+## Technologies used:
 - HTML
 - CSS
 
-## Requisitos:
-- Adicionar uma cor de fundo específica para a página
-- Adicionar uma barra superior com um título
-- Adicionar uma foto à página
-- Adicionar uma lista de lições aprendidas à página
-- Criar uma seção que conta uma passagem sobre o aprendizado
-- Alterar atributos relacionados as fontes
-- Criar uma lista de lições que ainda deseja aprender para a página
-- Aplicar elementos HTML de acordo com o sentido e propósito de cada um deles
-- Criar um artigo sobre o aprendizado
-- Posicionar o artigo e a seção sobre aprendizados um ao lado do outro
-- Inserir pelo menos um link externo à página
-- Testar se a semântica da página está aprovada pelo site CodeSniffer
-- Adicionar um rodapé para a página
-- Utilizar o Box Model
-- Adicionar uma tabela à página
+## Requirements:
+[x] Add a specific background color to the page.
+[x] Add a top navigation bar with a title.
+[x] Add a photo to the page.
+[x] Add a list of lessons learned to the page.
+[x] Create a section that tells a passage about the learning experience.
+[x] Modify attributes related to fonts.
+[x] Create a list of lessons you still want to learn for the page.
+[x] Apply HTML elements according to their sense and purpose.
+[x] Create an article about the learning experience.
+[x] Position the article and the section about learnings side by side.
+[x] Insert at least one external link on the page.
+[x] Test if the page's semantics are approved by the CodeSniffer website.
+[x] Add a footer to the page.
+[x] Use the Box Model.
+[x] Add a table to the page.
 
-## Aprendizados:
+## Learnings:
 
-Esse projeto me deu a oportunidade de praticar todos os aprendizados adquiridos nas duas primeiras semanas de Trybe. Usar o Box Model e posicionar os elementos um ao lado do outro através da propriedade float foi um dos pontos altos, pois essa propriedade pode ser complicada de usar a princípio. No entanto, o mais desafiador foi a construção da tabela, com a qual eu ainda não tinha prática. Foi uma ótima oportunidade de aprender a como lidar com esses elementos HTML.
+This project allowed me to practice all the knowledge acquired in the first two weeks of Trybe. Using the Box Model and positioning elements side by side through the float property was one of the highlights, as this property can be challenging to use initially. However, the most challenging aspect was building the table, which I hadn't practiced before. Learning how to deal with these HTML elements was a great opportunity.
 
 > Written with [StackEdit](https://stackedit.io/).
