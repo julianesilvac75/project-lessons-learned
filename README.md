@@ -9,21 +9,21 @@ The proposed challenge was to develop a website containing various information a
 - CSS
 
 ## Requirements:
-[x] Add a specific background color to the page.
-[x] Add a top navigation bar with a title.
-[x] Add a photo to the page.
-[x] Add a list of lessons learned to the page.
-[x] Create a section that tells a passage about the learning experience.
-[x] Modify attributes related to fonts.
-[x] Create a list of lessons you still want to learn for the page.
-[x] Apply HTML elements according to their sense and purpose.
-[x] Create an article about the learning experience.
-[x] Position the article and the section about learnings side by side.
-[x] Insert at least one external link on the page.
-[x] Test if the page's semantics are approved by the CodeSniffer website.
-[x] Add a footer to the page.
-[x] Use the Box Model.
-[x] Add a table to the page.
+- [x] Add a specific background color to the page.
+- [x] Add a top navigation bar with a title.
+- [x] Add a photo to the page.
+- [x] Add a list of lessons learned to the page.
+- [x] Create a section that tells a passage about the learning experience.
+- [x] Modify attributes related to fonts.
+- [x] Create a list of lessons you still want to learn for the page.
+- [x] Apply HTML elements according to their sense and purpose.
+- [x] Create an article about the learning experience.
+- [x] Position the article and the section about learnings side by side.
+- [x] Insert at least one external link on the page.
+- [x] Test if the page's semantics are approved by the CodeSniffer website.
+- [x] Add a footer to the page.
+- [x] Use the Box Model.
+- [x] Add a table to the page.
 
 ## Learnings:
 
